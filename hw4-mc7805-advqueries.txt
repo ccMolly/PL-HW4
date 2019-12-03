@@ -1,0 +1,13 @@
+main.
+go to office.
+look in the desk.
+look in the envelope.
+take the key.
+go to kitchen.
+take the apple.
+take the broccoli.
+take the crackers.
+go to the attic.
+take the doll.
+go to kitchen.
+go to cellar.
